@@ -61,6 +61,6 @@ request.onload = function () {
         <p><b>Comments:</b> ${cafe.comments}</p>
     `).openPopup().addTo(myMap);
   });
-}
+};
 
 request.send();
