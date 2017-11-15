@@ -22,7 +22,7 @@ myMap.setView([33.1958696,-117.37948340000003], 12);
 
 // Make an XMLHttpRequest to the JSON data
 const request = new XMLHttpRequest();
-request.open('GET', 'https://github.com/johnnycatsd/coffee-master/blob/master/js/map.json', true);
+request.open('GET', 'https://raw.githubusercontent.com/johnnycatsd/Cafetography/master/js/map.json', true);
 
 request.onload = function () {
   // begin accessing JSON data here
