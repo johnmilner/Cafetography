@@ -1,0 +1,29 @@
+{
+  "cafes": [{
+      "name": "Pier View Coffee Shop",
+      "lat": 33.1960582,
+      "long": -117.38182180000001,
+      "neighborhood": "Oceanside",
+      "ambiance": "4/5",
+      "flavor": "5/5",
+      "comments": "Best cappuccino and croissant I've ever had. Place is rather small, so working there when it's empty is awkward."
+    }, {
+      "name": "Jitters Cafe",
+      "lat": 33.1988937,
+      "long": -117.3816693,
+      "neighborhood": "Oceanside",
+      "ambiance": "1/5",
+      "flavor": "1/5",
+      "comments": "Tiny, small menu, mediocre coffee. Sister location Maiden Voyage is good."
+    },
+    {
+      "name": "Brown Cup Cafe",
+      "lat": 33.197808,
+      "long": -117.38132189999999,
+      "neighborhood": "Oceanside",
+      "ambiance": "4/5",
+      "flavor": "3/5",
+      "comments": "Good place to get work done. Busy enough and big enough. Coffee is fine."
+    }
+  ]
+}
